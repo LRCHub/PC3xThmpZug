@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "カノン",
+  "base_artist": "柊マグネタイト feat. 可不",
+  "createdAt": "2026-02-28T09:30:33.523681Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カノン",
+      "artist": "Dreams Come True",
+      "has_synced": false,
+      "path": "select/01_カノン_Dreams_Come_True.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カノン",
+      "artist": "宮本笑里",
+      "has_synced": false,
+      "path": "select/02_カノン_宮本笑里.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カノン",
+      "artist": "Johann Pachelbel",
+      "has_synced": false,
+      "path": "select/03_カノン_Johann_Pachelbel.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カノン",
+      "artist": "Mamoru Miyano",
+      "has_synced": true,
+      "path": "select/04_カノン_Mamoru_Miyano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カノン",
+      "artist": "Kotaro Oshio",
+      "has_synced": false,
+      "path": "select/05_カノン_Kotaro_Oshio.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カノン",
+      "artist": "きのこ帝国",
+      "has_synced": true,
+      "path": "select/06_カノン_きのこ帝国.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カノン",
+      "artist": "Kinokoteikoku",
+      "has_synced": false,
+      "path": "select/07_カノン_Kinokoteikoku.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カノン",
+      "artist": "ふくろうず",
+      "has_synced": false,
+      "path": "select/08_カノン_ふくろうず.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "カノン",
+      "artist": "宮野真守",
+      "has_synced": true,
+      "path": "select/09_カノン_宮野真守.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "カノン - Canon",
+      "artist": "Mamoru Miyano",
+      "has_synced": true,
+      "path": "select/10_カノン_-_Canon_Mamoru_Miyano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カノン",
+      "artist": "柊マグネタイト feat. 可不",
+      "has_synced": false,
+      "path": "select/pl_01_カノン_柊マグネタイト_feat._可不.txt"
+    }
+  ]
+}
